@@ -1,12 +1,6 @@
-## Hi there 👋
+#  Movement Disorders and Neuromodulation Unit - Charité - Universitätsmedizin Berlin
 
-<!--
+This is coding environment of the research group Movement Disorders and Neuromodulation Unit, Department of Neurology at the Charité - Universitätsmedizin Berlin,
+under the lead of Prof. Dr. med. Andrea A. Kühn. (https://neurologie.charite.de/forschung/arbeitsgruppen/bewegungsstoerungen_andrea_kuehn/klinik/)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are part of the ReTune Consortium (https://sfb-retune.de/en/home/), including ReTune Commons (https://github.com/retune-commons)
